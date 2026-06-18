@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Memona Abdul Razzaq! 👋
 
-<!--
-**memonaabdulrazzaq09-oss/memonaabdulrazzaq09-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at As Sadah Online Academy, Pakistan  
+💻 Aspiring Web Developer  
+🌱 Currently learning HTML · CSS · JavaScript · Python
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+## 🚀 Projects
+- 🧃 [Juice Recipe App](https://github.com/memonaabdulrazzaq09-oss/Juice-recipe-)
+- ✅ [TaskFlow App](https://taskflow-zen-949.netlify.app)
+
+## 📫 Connect with me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/memona-abdul-razzaq-990462413)
